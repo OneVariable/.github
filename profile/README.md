@@ -1,4 +1,4 @@
-# OneVariable UG
+# OneVariable GmbH
 
 OneVariable is a consultancy focused on advising and development services in the areas of systems engineering,
 embedded systems, and software development in the Rust programming language, based in Berlin, Germany.
